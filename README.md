@@ -1,2 +1,2 @@
 # KU-Cloud
-Kuba Białczyk
+
